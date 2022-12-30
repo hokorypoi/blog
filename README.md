@@ -1,2 +1,2 @@
 # vite-press-blog
-Just a blog project create with VitePress
+Just a blog project created with VitePress
