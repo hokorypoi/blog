@@ -2,7 +2,7 @@ export default {
   title: "H",
   description: "H",
   head: [
-    ['link', { rel: 'icon', type: 'image/ico', href: '/favicon.ico' }]
+    ['link', { rel: 'icon', type: 'image/ico', href: 'favicon.ico' }]
   ],
   base: '/blog/',
   themeConfig: {
