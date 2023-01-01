@@ -10,7 +10,7 @@ import {
 
 const members = [
   {
-    avatar: '/static/images/avatar/rikka-takanashi.gif',
+    avatar: './static/images/avatar/rikka-takanashi.gif',
     name: 'Takanashi',
     title: 'Creator',
     links: [
@@ -19,7 +19,7 @@ const members = [
     ]
   },
     {
-    avatar: '/static/images/avatar/rikka-takanashi.gif',
+    avatar: './static/images/avatar/rikka-takanashi.gif',
     name: 'Rikka',
     title: 'Creator',
     links: [
