@@ -1,9 +1,10 @@
 export default {
   title: "H",
   description: "H",
-    head: [
-      ['link', { rel: 'icon', type: 'image/ico', href: '/favicon.ico' }]
-    ],
+  head: [
+    ['link', { rel: 'icon', type: 'image/ico', href: '/favicon.ico' }]
+  ],
+  base: '/blog/',
   themeConfig: {
     siteTitle: "H",
     logo: "/static/images/avatar/rikka-takanashi.gif",
@@ -42,8 +43,8 @@ export default {
         {
           text: '记录',
           items: [
-            { text: 'Start', link: '/blog/' }, 
-            { text: '创建', link: '/blog/create' }, 
+            { text: 'Start', link: '/blog/' },
+            { text: '创建', link: '/blog/create' },
           ]
         }
       ],
@@ -56,9 +57,9 @@ export default {
           collapsible: true,
           collapsed: true,
           items: [
-            { text: 'Start', link: '/dev/' }, 
+            { text: 'Start', link: '/dev/' },
             { text: 'Three', link: '/dev/three' },
-            { text: 'Four', link: '/dev/four' } 
+            { text: 'Four', link: '/dev/four' }
           ]
         }
       ],
@@ -68,10 +69,10 @@ export default {
           collapsible: true,
           collapsed: true,
           items: [
-            { text: '开始', link: '/record/' }, 
-            { text: '长久以来的噩梦', link: '/record/long-time-nightmare' } ,
-            { text: '几个转折点', link: '/record/a-few-turning-points' }, 
-            
+            { text: '开始', link: '/record/' },
+            { text: '长久以来的噩梦', link: '/record/long-time-nightmare' },
+            { text: '几个转折点', link: '/record/a-few-turning-points' },
+
           ]
         }
       ]
