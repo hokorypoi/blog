@@ -12,6 +12,7 @@ export default {
     nav: [
       { text: "Home", link: "/" },
       { text: "Start", link: "/blog/" },
+      { text: "Funny", link: "/funny/paygo-wifi-calling" },
       {
         text: "Record",
         items: [
@@ -58,6 +59,7 @@ export default {
           collapsed: true,
           items: [
             { text: 'Start', link: '/dev/' },
+            { text: 'OpenSteetMap to MapService', link: '/dev/osm-to-map-service' },
             { text: 'Three', link: '/dev/three' },
             { text: 'Four', link: '/dev/four' }
           ]
