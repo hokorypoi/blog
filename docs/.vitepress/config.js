@@ -49,6 +49,15 @@ export default {
           ]
         }
       ],
+      '/funny/': [
+        {
+          text: 'Funny',
+          items: [
+            { text: 'paygo-wifi-calling', link: '/funny/paygo-wifi-calling' },
+            { text: '影视资源', link: '/funny/movie-resources' },
+          ]
+        }
+      ],
 
       // This sidebar gets displayed when user is
       // under `config` directory.
