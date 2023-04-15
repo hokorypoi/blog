@@ -18,6 +18,10 @@ https://www.zimuxia.cn/
 
 在 [bangumi](https://bgm.tv/calendar) 看更新表，在 [动漫花园](https://dmhy.anoneko.com/) 或 [acg.rip](https://acg.rip/) 找资源。
 
+## 漫画
+
+[Kox.moe](https://kox.moe/)
+
 ## JAV
 
 在 [Jable](https://jable.tv/models/momonogi-kana/) 直接看，或根据番号用[磁力搜索](https://xn--bt-yq5cy8rerbq21h.com/)下载。
