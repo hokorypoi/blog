@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,m as n}from"./chunks/framework.DZ6xtHP5.js";const x=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"dev/index.md","filePath":"dev/index.md"}'),o={name:"dev/index.md"},s=n("p",null,"开发",-1),d=[s];function r(c,i,_,p,l,m){return a(),t("div",null,d)}const h=e(o,[["render",r]]);export{x as __pageData,h as default};

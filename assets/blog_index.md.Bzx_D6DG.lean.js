@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a2 as o}from"./chunks/framework.DZ6xtHP5.js";const f=JSON.parse('{"title":"从这里开始","description":"","frontmatter":{},"headers":[],"relativePath":"blog/index.md","filePath":"blog/index.md"}'),p={name:"blog/index.md"},_=o("",9),n=[_];function r(s,c,i,d,l,h){return a(),t("div",null,n)}const x=e(p,[["render",r]]);export{f as __pageData,x as default};
